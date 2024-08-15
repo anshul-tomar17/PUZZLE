@@ -1,4 +1,4 @@
-var images = ['https://www.sarkarinaukriexams.com/images/editor/1696143528k.PNG'];
+var images = ['https://as1.ftcdn.net/v2/jpg/05/75/54/78/1000_F_575547888_ABn21kSPHKUsu9NTX1gNnFYJdiTzW8SX.jpg'];
 
 var currentIndex = 0;
 var totalClicks = 0;
